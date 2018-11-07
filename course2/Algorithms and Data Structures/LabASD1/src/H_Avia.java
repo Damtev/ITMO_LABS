@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.Arrays;
 
 public class H_Avia {
 
@@ -63,16 +64,12 @@ public class H_Avia {
                         g[v][u] = graph[v][u] <= size;
                     }
                 }
-                for (int v = 1; v <= n; v++) {
-                    used[v] = false;
-                }
+                Arrays.fill(used, false);
 
                 dfs1(1);
                 boolean needMore = false;
                 if (allVerticesReached()) {
-                    for (int v = 1; v <= n; v++) {
-                        used[v] = false;
-                    }
+                    Arrays.fill(used, false);
                     dfs2(1);
                     if (!allVerticesReached()) {
                         needMore = true;

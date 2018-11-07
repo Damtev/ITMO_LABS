@@ -1,0 +1,11 @@
+.idea
+*.in
+*.out
+*.iml
+*.o
+lib/
+out/
+resources/
+webapp/
+*.7z
+cmake-build-debug
