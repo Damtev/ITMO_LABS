@@ -3,7 +3,7 @@ import java.io.*;
 public class T_1 {
 
     public static void main(String[] args) throws IOException {
-        try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("allvectorsin.txt")));
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("allvectorsin.in")));
              PrintWriter pr = new PrintWriter("allvectors.out")) {
             int n = Integer.parseInt(br.readLine());
             StringBuilder[] ans = new StringBuilder[(int) Math.pow(2, n)];

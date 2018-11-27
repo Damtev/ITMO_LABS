@@ -3,24 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="92c13863-35c6-4c02-b2bb-fc3929a2c253" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia.in" beforeDir="false" afterPath="$PROJECT_DIR$/avia.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia.out" beforeDir="false" afterPath="$PROJECT_DIR$/avia.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/A_TopSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/B_Bridges.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/C_CutVertices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/D_CostalDoublyLinkedComponents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/E_VerticesBiconnectedComponents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/F_Condensation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/G_Party.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/H_Avia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/I_MST1$Vertex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/I_MST1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/J_MST2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/J_MST2$Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/J_MST2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabASD1/K_TwoChinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/H_Avia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/H_Avia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabASD1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Discrete Math/LabDM1_C++/20-lab-hamilton.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Discrete Math/LabDM1_HamiltonianCycles/20-lab-hamilton.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Discrete Math/LabDM1_C++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Discrete Math/LabDM1_HamiltonianCycles/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Discrete Math/LabDM1_C++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Discrete Math/LabDM1_HamiltonianCycles/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,39 +21,43 @@
     <session id="-1542392168">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="in" value="2" />
-          <entry key="java" value="36" />
-          <entry key="out" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="in" value="4" />
+          <entry key="java" value="38" />
+          <entry key="out" value="3" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="38" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
           <entry key="in" value="35" />
-          <entry key="java" value="10105" />
+          <entry key="java" value="10133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10105" />
+          <entry key="JAVA" value="10133" />
           <entry key="PLAIN_TEXT" value="41" />
         </counts>
       </usages-collector>
@@ -85,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/A_TopSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="220">
               <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,7 +110,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/H_Avia.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
@@ -192,6 +184,10 @@
         <option value="$PROJECT_DIR$/src/K_TwoChinese.java" />
         <option value="$PROJECT_DIR$/avia.in" />
         <option value="$PROJECT_DIR$/src/H_Avia.java" />
+        <option value="$PROJECT_DIR$/src/ZZZZZ.java" />
+        <option value="$PROJECT_DIR$/src/Z.java" />
+        <option value="$PROJECT_DIR$/src/E.java" />
+        <option value="$PROJECT_DIR$/path.in" />
       </list>
     </option>
   </component>
@@ -215,18 +211,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LabASD1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LabASD1_DFS_MST" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabASD1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LabASD1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LabASD1_DFS_MST" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabASD1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -234,15 +227,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540697993438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542013886924" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -264,56 +260,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A_TopSort">
+  <component name="RunManager" selected="Application.E">
     <configuration name="A_TopSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_TopSort" />
-      <module name="LabASD1" />
+      <module name="LabASD1_DFS_MST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D_CostalDoublyLinkedComponents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_CostalDoublyLinkedComponents" />
-      <module name="LabASD1" />
+    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E" />
+      <module name="LabASD1_DFS_MST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="F_Condensation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="F_Condensation" />
-      <module name="LabASD1" />
+      <module name="LabASD1_DFS_MST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="H_Avia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="H_Avia" />
-      <module name="LabASD1" />
+      <module name="LabASD1_DFS_MST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K_TwoChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="K_TwoChinese" />
-      <module name="LabASD1" />
+    <configuration name="Z" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z" />
+      <module name="LabASD1_DFS_MST" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.H_Avia" />
-      <item itemvalue="Application.D_CostalDoublyLinkedComponents" />
-      <item itemvalue="Application.K_TwoChinese" />
       <item itemvalue="Application.F_Condensation" />
       <item itemvalue="Application.A_TopSort" />
+      <item itemvalue="Application.Z" />
+      <item itemvalue="Application.E" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E" />
         <item itemvalue="Application.A_TopSort" />
+        <item itemvalue="Application.Z" />
         <item itemvalue="Application.H_Avia" />
         <item itemvalue="Application.F_Condensation" />
-        <item itemvalue="Application.K_TwoChinese" />
-        <item itemvalue="Application.D_CostalDoublyLinkedComponents" />
       </list>
     </recent_temporary>
   </component>
@@ -341,17 +337,18 @@
       <workItem from="1540697026296" duration="744000" />
       <workItem from="1540698141032" duration="28000" />
       <workItem from="1541494323065" duration="2147000" />
+      <workItem from="1541758940510" duration="17000" />
+      <workItem from="1541963204133" duration="3166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59650000" />
+    <option name="totallyTimeSpent" value="62833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2899834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29662424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -361,7 +358,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39135134" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -369,7 +366,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -567,10 +564,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/A_TopSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Z.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="394">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -581,6 +578,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabASD1_DFS_MST.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2012" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="24" lean-forward="true" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A_TopSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -627,7 +679,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -639,7 +691,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>LabASD1</last-edited>
+          <last-edited>LabASD1_DFS_MST</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
