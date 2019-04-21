@@ -9,3 +9,4 @@ resources/
 webapp/
 *.7z
 cmake-build-debug
+CMakeLists.txt
