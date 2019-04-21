@@ -104,7 +104,6 @@ void D_PlanarityCheck() {
 		string table;
 		getline(cin, table);
 
-		// n ^ 2 - 2 * n - 2 * table.size = 0
 		int n = (1 + sqrt(1 + 8 * table.size())) / 2;
 		if (n <= 4) {
 			cout << "YES" << endl;
@@ -121,8 +120,6 @@ void D_PlanarityCheck() {
 		int m = 0;
 		for (char j : table) {
 			if (j == '1') {
-//				graph[to].push_back(from);
-//				graph[from].push_back(to);
 				graph[to][from] = graph[from][to] = true;
 				++degrees[to];
 				++degrees[from];
@@ -278,20 +275,9 @@ void D_PlanarityCheck() {
 						Edge edge = edges[j];
 						int u = edge.u;
 						int v = edge.v;
-//						vector<Edge> newEdges;
-//						copy(edges.begin(), edges.end(), newEdges.begin());
-//						newEdges.erase(newEdges.begin() + j);
 						vector<vector<bool>> newGraph(n + 1);
 						copy(graph.begin(), graph.end(), newGraph.begin());
 						newGraph[u][v] = newGraph[v][u] = false;
-//						for (int k = 1; k <= n; ++k) {
-//							newGraph[k].resize(n + 1, false);
-//						}
-//						for (Edge edge1 : newEdges) {
-//							int u = edge1.u;
-//							int v = edge1.v;
-//							graph[u][v] = graph[v][u] = true;
-//						}
 						if (isK3_3(newGraph)) {
 							isPlanar = false;
 							break;
