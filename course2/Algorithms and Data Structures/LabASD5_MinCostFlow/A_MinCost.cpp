@@ -45,29 +45,6 @@ void readMatrix() {
     }
 }
 
-void fordBellman() {
-    d.assign(n, INF);
-    path.assign(n, {nullptr, -1});
-    d[s] = 0;
-    while (true) {
-        bool exists = false;
-        int id = 0;
-        for (Edge &edge : edges) {
-            ++id;
-            if (edge.flow < edge.capacity && d[edge.from] < INF) {
-                if (d[edge.to] > d[edge.from] + edge.cost) {
-                    d[edge.to] = d[edge.from] + edge.cost;
-                    path[edge.to] = make_pair(&edge, id);
-                    exists = true;
-                }
-            }
-        }
-        if (!exists) {
-            break;
-        }
-    }
-}
-
 void levit() {
     vector<int> id(n);
     d.assign(n, INF);
@@ -105,7 +82,6 @@ int main() {
     readMatrix();
     ll minCost = 0;
     while (true) {
-//        fordBellman();
         levit();
         if (d[t] == INF) {
             break;

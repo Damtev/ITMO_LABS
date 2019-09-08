@@ -8,5 +8,6 @@ out/
 resources/
 webapp/
 *.7z
+*.zip
 cmake-build-debug
 CMakeLists.txt
