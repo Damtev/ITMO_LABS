@@ -186,7 +186,8 @@ public class Solver {
     }
 
     public static void main(String[] args) throws IOException {
-        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+//        try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("test4_880k.txt"))) {
             parser = new Parser();
             String line;
             initAxioms();
