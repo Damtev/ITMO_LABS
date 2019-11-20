@@ -1,2 +1,2 @@
 # ITMO_LABS
-Data Structures, Discrete Math and Math Logic labs in ITMO
+Data Structures, Discrete Math and Math Logic labs at ITMO university
